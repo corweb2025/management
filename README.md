@@ -1,6 +1,6 @@
 ## Management System
 
-본 프로젝트는 테스트입니다.
+본 프로젝트는 고객관리프로그램 테스트입니다.
 
 # Getting Started with Create React App
 
